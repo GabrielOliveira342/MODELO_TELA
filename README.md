@@ -40,7 +40,7 @@ Ferramentas utilizadas e bibliotecas
 ## ✒️ Autores
 
 * **Gabriel Alberto de Oliveria** - *Trabalho Inicial* - MODELO TELA
-* 
+ 
 ![Captura de tela 2024-10-30 211713](https://github.com/user-attachments/assets/8c80c67a-85cf-4806-8e08-3aa27a34f660)
 
   
